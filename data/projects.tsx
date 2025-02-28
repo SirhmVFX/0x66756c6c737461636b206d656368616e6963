@@ -1,5 +1,6 @@
 export const projects = [
     {
+        "id" : 0,
         "title": "Missive — Longform Social Letter App",
         "description": "Missive is a social media platform where users publish long-form letters, reply to others with letters, and personalize their space with visuals. The app includes AI-assisted writing, customizable profiles, and a letter reply system.",
         "frontend": {
