@@ -3,7 +3,7 @@ import HeroSection from "@/components/Herosection";
 
 export default function Home() {
   return (
-    <main className="w-[1200px] mx-auto">
+    <main className="md:w-[1200px] mx-auto p-4 md:p-0">
       <HeroSection />
      
 
