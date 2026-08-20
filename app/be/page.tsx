@@ -1,7 +1,11 @@
-const Be = () => {
-  return (
-    <div>be</div>
-  )
-}
+import type { Metadata } from "next";
 
-export default Be
+export const metadata: Metadata = {
+  title: "Backend Engineer",
+  description:
+    "Backend bay — APIs, invoices, bounties, auth. Ganiu Samuel, The Fullstack Mechanic.",
+};
+
+export default function BackendBay() {
+  return null;
+}
